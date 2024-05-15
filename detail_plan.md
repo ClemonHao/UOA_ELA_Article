@@ -4,11 +4,11 @@ author: hao
 
 ## organization of ideas
 
-| sections | aspect           | main ideas                                                   |
-| -------- | ---------------- | :----------------------------------------------------------- |
-| 1        | bias in gender   | Although there are some negative bias on female applicants, the overall trend is still show more negative effects on male applicants |
-| 2        | privacy          | Cybervetting is a kind of invasion of personal privacy       |
-| 3        | work performance | Social media rating is not correlated with work performance  |
+| sections | aspect                | main ideas                                                   |
+| -------- | --------------------- | :----------------------------------------------------------- |
+| 1        | gender discrimination | Some bias(include positive/negative) happened because of the gender of applicants |
+| 2        | privacy               | Cybervetting is a kind of invasion of personal privacy       |
+| 3        | work performance      | Social media rating is not correlated with work performance  |
 
 
 
